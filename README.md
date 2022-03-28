@@ -5,6 +5,8 @@ Some of them require images to work
 
 These Scripts were found in the [Psych Engine Discord Server](https://discord.gg/2ka77eMXDv)
 
+**If you, creator of any of these lua scripts, want me to remove one of the scripts ask me**
+
 ## How to install
 Put the stuff (lua, image, xml) in the Scripts folder (inside the mods folder)
 
