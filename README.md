@@ -11,7 +11,7 @@ Put the stuff (lua, image, xml) in the Scripts folder (inside the mods folder)
 ## Credits
 [cyn__8](https://twitter.com/cyn__8) - Camera Follow
 
-[TKTems](https://twitter.com/TKTems) - Combo Asset Restore
+[TKTems](https://twitter.com/TKTems) - Combo Asset Restore, Debug Info
 
 NachoTeZ#7453 - Cool Ratings
 
