@@ -12,3 +12,5 @@ Put the Scripts in the Scripts folder (inside the mods folder)
 [cyn__8](https://twitter.com/cyn__8) - Camera Follow
 
 [TKTems](https://twitter.com/TKTems) - Combo Asset Restore
+
+NachoTeZ#7453 - Psych Ratings In-Game
