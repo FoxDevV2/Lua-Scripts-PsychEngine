@@ -14,6 +14,8 @@ Put the stuff (lua, image, xml) in the Scripts folder (inside the mods folder)
 
 [Sir Top Hat](https://steamcommunity.com/profiles/76561198800334545) - Song Intro Script
 
+[superpowers04](https://github.com/superpowers04) - Character Select
+
 [cyn__8](https://twitter.com/cyn__8) - Camera Follow
 
 [TKTems](https://twitter.com/TKTems) - Combo Asset Restore, Debug Info
@@ -28,4 +30,4 @@ NachoTeZ#7453 - Cool Ratings
 
 [HayatoKawajiri](https://www.youtube.com/channel/UCe8Xei_pUSjWCOdqKfP61Tg) & [tetottest](https://www.youtube.com/channel/UCsLRmy4zREb3rOrm-ziI_bw) - Funky Friday UI
 
-[superpowers04](https://github.com/superpowers04) - Character Select
+[ModRecruits](https://github.com/FridayNightGachaTrap) - Time Bar Key Input
