@@ -6,7 +6,7 @@ Some of them require images to work
 These Scripts were found in the [Psych Engine Discord Server](https://discord.gg/2ka77eMXDv)
 
 ## How to install
-Put the Scripts in the Scripts folder (inside the mods folder)
+Put the stuff (lua, image, xml) in the Scripts folder (inside the mods folder)
 
 ## Credits
 [cyn__8](https://twitter.com/cyn__8) - Camera Follow
