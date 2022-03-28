@@ -10,33 +10,35 @@ credit = { -- coded by HayatoKawajiri#4229
 
 function onUpdate()
     --black box and Song name As a Text
-  	makeLuaSprite('box', 'blackbox', 395, -950);
-  	scaleObject('box', 0.6, 3.6);
-    setScrollFactor('box', 0.0001, 0.00001);
-    setObjectCamera('box', 'hud')
+    if inGameOver == false then
+  	  makeLuaSprite('box', 'blackbox', 395, -950);
+  	  scaleObject('box', 0.6, 3.6);
+      setScrollFactor('box', 0.0001, 0.00001);
+      setObjectCamera('box', 'hud')
     
-    addLuaSprite('box', false);
-    
-    songName = getProperty('curSong')
-    makeLuaText('SongText', songName, 900, 950, textY)
-    setTextAlignment('SongText', 'left')
-    setTextSize('SongText', 30)
+      addLuaSprite('box', false);
+      
+      songName = getProperty('curSong')
+      makeLuaText('SongText', songName, 900, 950, textY)
+      setTextAlignment('SongText', 'left')
+      setTextSize('SongText', 30)
  
-    addLuaText('SongText')
+      addLuaText('SongText')
     
-    -- black box and dad note fade
+      -- black box and dad note fade
     
-    setProperty('box.alpha', 0.5)
+      setProperty('box.alpha', 0.5)
     
-    -- note color changing
+      -- note color changing
     
-    for i = 0,7 do
-    setPropertyFromGroup('opponentStrums', i, 'alpha', 0.75)
-    setPropertyFromGroup('notes', i, 'colorSwap.saturation', -1)
-    setPropertyFromGroup('opponentStrums', i, 'colorSwap.saturation', -1)
-    setPropertyFromGroup('playerStrums', i, 'colorSwap.saturation', -1)
+      for i = 0,7 do
+      setPropertyFromGroup('opponentStrums', i, 'alpha', 0.75)
+      --setPropertyFromGroup('notes', i, 'colorSwap.saturation', -1)
+      --setPropertyFromGroup('opponentStrums', i, 'colorSwap.saturation', -1)
+      --setPropertyFromGroup('playerStrums', i, 'colorSwap.saturation', -1)
+      end
     end
-   
+
     
     -- check if u enable middle scroll
 
