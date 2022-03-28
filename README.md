@@ -9,6 +9,8 @@ These Scripts were found in the [Psych Engine Discord Server](https://discord.gg
 
 ## How to install
 Put the stuff (lua, image, xml) in the Scripts folder (inside the mods folder)
+### Exceptions
+The Health Drain Script needs to be in a chart folder
 
 ## Credits
 
