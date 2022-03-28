@@ -13,4 +13,6 @@ Put the Scripts in the Scripts folder (inside the mods folder)
 
 [TKTems](https://twitter.com/TKTems) - Combo Asset Restore
 
-NachoTeZ#7453 - Psych Ratings In-Game
+NachoTeZ#7453 - Cool Ratings
+
+[Rektdpe](https://twitter.com/RektdIpe) - Miss Limi
