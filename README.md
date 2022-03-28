@@ -1,4 +1,4 @@
-# Lua Scripts for Psych Engine
+# Lua Scripts for [Psych Engine](https://gamebanana.com/mods/309789)
 These Scripts allows better/different gameplay
 
 Some of them require images/xml to work
