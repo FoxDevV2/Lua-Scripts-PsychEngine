@@ -15,4 +15,6 @@ Put the Scripts in the Scripts folder (inside the mods folder)
 
 NachoTeZ#7453 - Cool Ratings
 
-[Rektdpe](https://twitter.com/RektdIpe) - Miss Limi
+[Rektdpe](https://twitter.com/RektdIpe) - Miss Limit
+
+[DRiachu](https://twitter.com/DRiachu) - Health Counter
