@@ -18,3 +18,5 @@ NachoTeZ#7453 - Cool Ratings
 [Rektdpe](https://twitter.com/RektdIpe) - Miss Limit
 
 [DRiachu](https://twitter.com/DRiachu) - Health Counter
+
+[HayatoKawajiri](https://www.youtube.com/channel/UCe8Xei_pUSjWCOdqKfP61Tg) - Funky Friday UI
