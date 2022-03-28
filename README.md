@@ -9,3 +9,4 @@ These Scripts were found in the [Psych Engine Discord Server](https://discord.gg
 Put the Scripts in the Scripts folder (inside the mods folder)
 
 ## Credits
+[cyn__8](https://twitter.com/cyn__8) - Camera Follow
