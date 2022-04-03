@@ -41,3 +41,6 @@ NachoTeZ#7453 - Cool Ratings
 [Kacper_OSM](https://twitter.com/Kacper_OSM) - Sarv Engine GUI
 
 [SkyBaoFall](https://www.youtube.com/channel/UCLYj3vtxwha4fdpXSsWLqeQ) - Kade Engine Time Bar
+
+[Tomxion](https://github.com/Tomxion) - Kade Engine Time Bar 2
+
