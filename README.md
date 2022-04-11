@@ -30,7 +30,7 @@ NachoTeZ#7453 - Cool Ratings
 
 [DRiachu](https://twitter.com/DRiachu) - Health Counter
 
-[AquaStrikr](https://twitter.com/aqua_strikr) - Health Drain
+[AquaStrikr](https://twitter.com/aqua_strikr) - Health Drain, TGT Funkin GUI
 
 [HayatoKawajiri](https://www.youtube.com/channel/UCe8Xei_pUSjWCOdqKfP61Tg) & [tetottest](https://www.youtube.com/channel/UCsLRmy4zREb3rOrm-ziI_bw) - Funky Friday UI
 
